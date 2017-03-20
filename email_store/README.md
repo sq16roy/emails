@@ -15,10 +15,5 @@ This is the official starter project for [Foundation for Emails](http://foundati
 
 ## Installation
 
-
-**Caution:** AWS Service Fees will result, however, are usually very low do to minimal traffic. Use at your own discretion.
-
-
-# fragrancex
 - npm install
 - foundation watch
